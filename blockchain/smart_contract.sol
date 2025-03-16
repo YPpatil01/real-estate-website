@@ -1,0 +1,1 @@
+pragma solidity ^0.8.0; contract RealEstate { struct Property { uint id; address owner; } }
